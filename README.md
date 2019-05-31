@@ -1,6 +1,6 @@
 # SNAKE
 
-Snake game.
+Snake game. 
 
 ## Timeline
 
