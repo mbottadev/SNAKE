@@ -9,7 +9,7 @@ Snake game.
 ## This is a totally personnal project 
 
 * My goal was to explore Javascript all by myself by creating a popular game. My focus was on the functionalities and absolutely not on the design.
-* Possibily to play 1 or 2 players on the same computer, a multi-desktop multi-player version is on his way with *Node.js*
+* Possibility to play 1 or 2 players on the same computer, a multi-desktop multi-player version is on his way with *Node.js*
 
 ## Goal
 
